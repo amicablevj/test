@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1479" started-at="2017-06-08T16:20:20Z" finished-at="2017-06-08T16:20:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1479" started-at="2017-06-08T16:20:20Z" finished-at="2017-06-08T16:20:21Z">
+      <class name="com.mobiq.qaassignment.RegressionTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="setUp" is-config="true" duration-ms="8820" started-at="2017-06-08T18:20:11Z" finished-at="2017-06-08T18:20:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AddToDoTask(java.lang.String)[pri:1, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="AddToDoTask" duration-ms="4" started-at="2017-06-08T18:20:20Z" description="U1: Add Task to the ToDo List " data-provider="toDoTasks" finished-at="2017-06-08T18:20:20Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDoTask -->
+        <test-method status="PASS" signature="AddToDoTask(java.lang.String)[pri:1, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="AddToDoTask" duration-ms="148" started-at="2017-06-08T18:20:20Z" description="U1: Add Task to the ToDo List " data-provider="toDoTasks" finished-at="2017-06-08T18:20:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Initiative]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDoTask -->
+        <test-method status="PASS" signature="AddToDoTask(java.lang.String)[pri:1, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="AddToDoTask" duration-ms="99" started-at="2017-06-08T18:20:20Z" description="U1: Add Task to the ToDo List " data-provider="toDoTasks" finished-at="2017-06-08T18:20:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Find sponsorer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDoTask -->
+        <test-method status="PASS" signature="AddToDoTask(java.lang.String)[pri:1, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="AddToDoTask" duration-ms="80" started-at="2017-06-08T18:20:20Z" description="U1: Add Task to the ToDo List " data-provider="toDoTasks" finished-at="2017-06-08T18:20:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Prioritize]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDoTask -->
+        <test-method status="PASS" signature="AddToDoTask(java.lang.String)[pri:1, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="AddToDoTask" duration-ms="68" started-at="2017-06-08T18:20:20Z" description="U1: Add Task to the ToDo List " data-provider="toDoTasks" finished-at="2017-06-08T18:20:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sprint]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDoTask -->
+        <test-method status="PASS" signature="AddToDoTask(java.lang.String)[pri:1, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="AddToDoTask" duration-ms="79" started-at="2017-06-08T18:20:20Z" description="U1: Add Task to the ToDo List " data-provider="toDoTasks" finished-at="2017-06-08T18:20:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Develop]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDoTask -->
+        <test-method status="PASS" signature="AddToDoTask(java.lang.String)[pri:1, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="AddToDoTask" duration-ms="68" started-at="2017-06-08T18:20:20Z" description="U1: Add Task to the ToDo List " data-provider="toDoTasks" finished-at="2017-06-08T18:20:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDoTask -->
+        <test-method status="PASS" signature="AddToDoTask(java.lang.String)[pri:1, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="AddToDoTask" duration-ms="69" started-at="2017-06-08T18:20:20Z" description="U1: Add Task to the ToDo List " data-provider="toDoTasks" finished-at="2017-06-08T18:20:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Deploy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDoTask -->
+        <test-method status="PASS" signature="AddToDoTask(java.lang.String)[pri:1, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="AddToDoTask" duration-ms="88" started-at="2017-06-08T18:20:20Z" description="U1: Add Task to the ToDo List " data-provider="toDoTasks" finished-at="2017-06-08T18:20:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Verify]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDoTask -->
+        <test-method status="PASS" signature="AddToDoTask(java.lang.String)[pri:1, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="AddToDoTask" duration-ms="74" started-at="2017-06-08T18:20:21Z" description="U1: Add Task to the ToDo List " data-provider="toDoTasks" finished-at="2017-06-08T18:20:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Feedback]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDoTask -->
+        <test-method status="PASS" signature="AddToDoTask(java.lang.String)[pri:1, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="AddToDoTask" duration-ms="89" started-at="2017-06-08T18:20:21Z" description="U1: Add Task to the ToDo List " data-provider="toDoTasks" finished-at="2017-06-08T18:20:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Close Intiative]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDoTask -->
+        <test-method status="PASS" signature="CountToDoTask()[pri:2, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="CountToDoTask" duration-ms="27" started-at="2017-06-08T18:20:21Z" description="Verify the number of tasks added equals the number of taks from source" finished-at="2017-06-08T18:20:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CountToDoTask -->
+        <test-method status="PASS" signature="MarkTaskCompleted()[pri:3, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="MarkTaskCompleted" duration-ms="80" started-at="2017-06-08T18:20:21Z" description="U4: Complete the first ToDo task " finished-at="2017-06-08T18:20:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MarkTaskCompleted -->
+        <test-method status="PASS" signature="ValidateRemainingTasksCount()[pri:4, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="ValidateRemainingTasksCount" duration-ms="55" started-at="2017-06-08T18:20:21Z" description="U6 : Verify the number of remaining tasks to be done" finished-at="2017-06-08T18:20:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateRemainingTasksCount -->
+        <test-method status="PASS" signature="ValidateCompletedTasksCount()[pri:5, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="ValidateCompletedTasksCount" duration-ms="70" started-at="2017-06-08T18:20:21Z" description="U4-1 : Verify the number of completed tasks" finished-at="2017-06-08T18:20:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCompletedTasksCount -->
+        <test-method status="PASS" signature="DeleteCompletedTasks()[pri:6, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="DeleteCompletedTasks" duration-ms="146" started-at="2017-06-08T18:20:21Z" description="U3 : Clear completed tasks" finished-at="2017-06-08T18:20:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteCompletedTasks -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.mobiq.qaassignment.RegressionTest@6093dd95]" name="teardown" is-config="true" duration-ms="1025" started-at="2017-06-08T18:20:21Z" finished-at="2017-06-08T18:20:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mobiq.qaassignment.RegressionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
